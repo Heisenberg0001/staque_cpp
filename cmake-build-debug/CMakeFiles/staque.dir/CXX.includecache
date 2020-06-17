@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/George/CLionProjects/staque/Staque.h
+iostream
+-
+
+C:/Users/George/CLionProjects/staque/main.cpp
+iostream
+-
+Staque.h
+C:/Users/George/CLionProjects/staque/Staque.h
+
